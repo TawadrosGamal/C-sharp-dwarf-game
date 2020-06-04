@@ -1,0 +1,7 @@
+F:\3fci\mine\myproject\bin\Debug\myproject.exe.config
+F:\3fci\mine\myproject\bin\Debug\myproject.exe
+F:\3fci\mine\myproject\bin\Debug\myproject.pdb
+F:\3fci\mine\myproject\obj\Debug\myproject.csprojAssemblyReference.cache
+F:\3fci\mine\myproject\obj\Debug\myproject.csproj.CoreCompileInputs.cache
+F:\3fci\mine\myproject\obj\Debug\myproject.exe
+F:\3fci\mine\myproject\obj\Debug\myproject.pdb
